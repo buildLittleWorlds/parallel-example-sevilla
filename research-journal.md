@@ -1,5 +1,3 @@
-Note: This is a parallel worked example, not the student's actual work.
-
 # Research Journal: Motion Continuity Lab
 
 ## Week 1 - Pretty frames are not animation

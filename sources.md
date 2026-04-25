@@ -1,5 +1,3 @@
-Note: This is a parallel worked example, not the student's actual work.
-
 # Sources: Motion Continuity Lab
 
 These are Consensus-backed candidate sources. They are **abstract-checked only** in this worked example. Before using any source in a real paper, verify the title, authors, venue, DOI if available, and the exact claim the source supports.

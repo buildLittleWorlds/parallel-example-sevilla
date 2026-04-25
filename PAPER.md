@@ -1,5 +1,3 @@
-Note: This is a parallel worked example, not the student's actual work.
-
 # Motion Continuity Lab: Evaluating AI Animation Helpers Across Scene Beats
 
 ## Abstract

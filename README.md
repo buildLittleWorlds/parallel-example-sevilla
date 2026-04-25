@@ -1,5 +1,3 @@
-Note: This is a parallel worked example, not the student's actual work.
-
 # Parallel Example: Motion Continuity Lab
 
 This packet models how an animation-focused AI project could become a research journal and paper-lite draft. It is adjacent to animation and tool-switching work, but it does not describe the student's actual project.
